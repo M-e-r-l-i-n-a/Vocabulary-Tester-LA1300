@@ -9,7 +9,14 @@ Ich möchte erklären, wie Listen in C# funktionieren.
 
 ### Code
 ```csharp
-
+List<int> incorrect = new List<int>();
+while (incorrect.Count < 20)
+if (!incorrect.Contains(newWord))
+    {
+        incorrect.Add(newWord);
+    }
+Console.Write(incorrect[item - minus]);
+incorrect.RemoveAt(item - minus);
 ```
 
 ### Video
@@ -19,4 +26,4 @@ Ich möchte erklären, wie Listen in C# funktionieren.
 Ich habe mein Ziel im Abschnitt "Erklärung" erreicht.
 
 ### Reflexion
-Ich hatte Schwierigkeiten, passende Testfälle zu finden.
+Ich hatte Schwierigkeiten, passende Testfälle zu finden. Die Gruppenarbeit fand ich schwierig, weil wir zum Teil die gleichen Sachen gemacht hatten oder uns falsch verstanden haben. Ich versuche, mehr mit anderen zu sprechen. 

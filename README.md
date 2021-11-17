@@ -45,7 +45,7 @@ namespace Liste
 Hier ist ein Programm, das eine Liste erstellt und so lange Zufallszahlen zwischen 0 und 10 ausgibt, bis eine fünf kommt. Es entfernt die fünf und die Listewird nochmals ohne sie angezeigt.
 
 ### Video
-
+https://youtu.be/JIgT9S7Je4M
 
 ### Verifikation
 Ich habe mein Ziel im Abschnitt "Erklärung" erreicht.

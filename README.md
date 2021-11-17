@@ -8,7 +8,8 @@ Ich möchte erklären, wie Listen in C# funktionieren.
 Bei einer Liste muss man, anders als beim Array, bei der Initialisierung nur den Datentyp eingeben, der Index, also die Anzahl Elemente, spielt keine Rolle. Es gäbe auch noch eine ArrayList, bei der muss man nicht mal das angeben. Damit man eine Liste initialisieren kann, muss man ganz oben `using System.Collections.Generic;` schreiben und dann: `List<int> listName = new List<int>;`, wobei `int` durch einen beliebigen Datentyp ersetzt werden kann.
 Es gibt list.Remove(element) und list.RemoveAt(index).
 
-### Code Anwendungsbeispiel
+## Anwendungsbeispiel
+### Code
 ```csharp
 using System;
 using System.Collections.Generic;
@@ -42,7 +43,7 @@ namespace Liste
     }
 }
 ```
-Hier ist ein Programm, das eine Liste erstellt und so lange Zufallszahlen zwischen 0 und 10 ausgibt, bis eine fünf kommt. Es entfernt die fünf und die Listewird nochmals ohne sie angezeigt.
+Das Programm erstellt eine Liste und gibt so lange Zufallszahlen zwischen 0 und 10 aus, bis eine fünf kommt. Es entfernt die fünf und die Listewird nochmals ohne sie angezeigt.
 
 ### Video
 https://youtu.be/JIgT9S7Je4M

@@ -8,8 +8,8 @@ Dieses Programm ist im Lernatelier entstanden, einem Fach in der Informatikmitte
 ### Erklärung:
 Bei einer Liste muss man, anders als beim Array, bei der Initialisierung nur den Datentyp eingeben, der Index, also die Anzahl Elemente, spielt keine Rolle. Es gäbe auch noch eine ArrayList, bei der muss man nicht mal das angeben. Damit man eine Liste initialisieren kann, muss man ganz oben `using System.Collections.Generic;` schreiben und dann: `List<int> listName = new List<int>;`, wobei 'int' durch einen beliebigen Datentyp ersetzt werden kann.
 
-## Anwendungsbeispiel
-### Code:
+### Anwendungsbeispiel:
+#### Code:
 ```csharp
 using System;
 using System.Collections.Generic;
@@ -45,11 +45,11 @@ namespace Liste
 ```
 Das Programm erstellt eine Liste und gibt so lange Zufallszahlen zwischen 0 und 10 aus, bis eine fünf kommt. Es entfernt die fünf und die Listewird nochmals ohne sie angezeigt.
 
-### Video:
+#### Video:
 https://youtu.be/JIgT9S7Je4M
 
 ### Verifikation:
-Ziel 1 habe ich im Abschnitt "Erklärung" erreicht und Ziel 2 in den Abschnitten "Code" und "Video".
+Ziel 1 habe ich im Abschnitt *Erklärung* erreicht und Ziel 2 im Abschnitt *Anwendungsbeispiel* (*Code* und *Video*).
 
 ### Reflexion:
 Die Gruppenarbeit fand ich schwierig, weil wir zum Teil die gleichen Sachen gemacht hatten oder uns falsch verstanden haben. Ich versuche nächstes Mal, mehr auf andere zuzugehen und mit ihnen zu sprechen.

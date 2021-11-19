@@ -2,7 +2,7 @@
 Dieses Programm ist im Lernatelier entstanden, einem Fach in der Informatikmittelschule, in dem wir eigene Projekte programmieren dürfen. Unsere Vierergruppe hat mit C# ein Programm geschrieben, bei dem der Nutzer Wörter übersetzen kann.
 
 ### Ziele:
-1. Ich möchte erklären, wie man eine Listen in C# erstellt.
+1. Ich möchte erklären, wie man eine Liste in C# erstellt.
 2. Ich möchte ein Anwendungsbeispiel zeigen.
 
 ### Erklärung:

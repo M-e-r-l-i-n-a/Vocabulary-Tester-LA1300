@@ -1,8 +1,9 @@
 # Portfolioeintrag zum Vocabulary Tester
 Dieses Programm ist im Lernatelier entstanden, einem Fach in der Informatikmittelschule, in dem wir eigene Projekte programmieren dürfen. Unsere Vierergruppe hat mit C# ein Programm geschrieben, bei dem der Nutzer Wörter übersetzen kann.
 
-### Ziel:
-In diesem Portfolioeintrag möchte erklären, wie Listen in C# funktionieren.
+### Ziele:
+1. Ich möchte erklären, wie man eine Listen in C# erstellt.
+2. Ich möchte ein Anwendungsbeispiel zeigen.
 
 ### Erklärung:
 Bei einer Liste muss man, anders als beim Array, bei der Initialisierung nur den Datentyp eingeben, der Index, also die Anzahl Elemente, spielt keine Rolle. Es gäbe auch noch eine ArrayList, bei der muss man nicht mal das angeben. Damit man eine Liste initialisieren kann, muss man ganz oben `using System.Collections.Generic;` schreiben und dann: `List<int> listName = new List<int>;`, wobei 'int' durch einen beliebigen Datentyp ersetzt werden kann.
@@ -48,7 +49,7 @@ Das Programm erstellt eine Liste und gibt so lange Zufallszahlen zwischen 0 und 
 https://youtu.be/JIgT9S7Je4M
 
 ### Verifikation:
-Ich habe mein Ziel im Abschnitt "Erklärung" erreicht.
+Ziel 1 habe ich im Abschnitt "Erklärung" erreicht und Ziel 2 in den Abschnitten "Code" und "Video".
 
 ### Reflexion:
 Die Gruppenarbeit fand ich schwierig, weil wir zum Teil die gleichen Sachen gemacht hatten oder uns falsch verstanden haben. Ich versuche nächstes Mal, mehr auf andere zuzugehen und mit ihnen zu sprechen.

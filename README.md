@@ -43,7 +43,7 @@ namespace Liste
     }
 }
 ```
-Das Programm erstellt eine Liste und gibt so lange Zufallszahlen zwischen 0 und 10 aus, bis eine fünf kommt. Es entfernt die fünf und die Listewird nochmals ohne sie angezeigt.
+Das Programm erstellt eine Liste und gibt so lange Zufallszahlen zwischen 0 und 10 aus, bis eine fünf kommt. Es entfernt die fünf und die Liste wird nochmals ohne sie angezeigt.
 
 #### Video:
 https://youtu.be/JIgT9S7Je4M

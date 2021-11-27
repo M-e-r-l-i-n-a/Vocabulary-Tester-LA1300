@@ -46,7 +46,7 @@ namespace Liste
 Das Programm erstellt eine Liste und gibt so lange Zufallszahlen zwischen 0 und 10 aus, bis eine fünf kommt. Es entfernt die fünf und die Liste wird nochmals ohne sie angezeigt.
 
 #### Video:
-https://youtu.be/JIgT9S7Je4M
+[![Video des Beispiels](https://img.youtube.com/vi/JIgT9S7Je4M/0.jpg)](http://www.youtube.com/watch?v=JIgT9S7Je4M "Video des Beispiels - Klicke um es anzuschauen!")
 
 ### Verifikation:
 Ziel 1 habe ich im Abschnitt *Erklärung* erreicht und Ziel 2 im Abschnitt *Anwendungsbeispiel* (*Code* und *Video*).
